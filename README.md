@@ -1,5 +1,4 @@
-# weather_app_flaconi
-
+# weather_app
 A Weather App that uses the current location of the user and shows the user the current
 weather and a forecast for the next days. The app has a light and dark mode switch. 
 Permissions for locating the users current location is needed.
